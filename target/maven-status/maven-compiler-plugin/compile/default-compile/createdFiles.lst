@@ -1,0 +1,10 @@
+com\demo\model\Product.class
+com\demo\service\ProductService.class
+com\demo\controller\ProductController.class
+com\demo\daoImpl\ProductDaoImpl.class
+com\demo\Application.class
+com\demo\config\HibernateConfiguration.class
+com\demo\model\ProductType.class
+com\demo\config\ApplicationSecurity.class
+com\demo\dao\ProductDao.class
+com\demo\serviceImpl\ProductServiceImpl.class

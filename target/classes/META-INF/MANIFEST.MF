@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Gridscape
+Build-Jdk: 17
+Implementation-Title: PracticalAssesment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: PracticalAssesment
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/PracticalAssesment
+Created-By: Maven Integration for Eclipse
+
